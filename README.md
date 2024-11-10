@@ -13,8 +13,7 @@ This project automates the fishing process in Minecraft using OpenCV for image r
 Make sure you have the following installed:
 
 - Python 3.x
-- OpenCV (`pip install opencv-python`)
-- PyAutoGUI (`pip install pyautogui`) – for automating mouse clicks or keyboard input
+- requirements (`pip install -r requirements.txt`)
 - A screenshot tool for capturing and cropping the bobber
 
 ## Usage
